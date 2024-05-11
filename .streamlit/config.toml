@@ -1,0 +1,14 @@
+[theme]
+
+primaryColor = "#f63366"
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#f0f2f6"
+textColor = "#262730"
+font = "sans serif"
+
+[app]
+title = "Resume Analyser"
+description = "This is a Streamlit app."
+
+[model]
+model_path = "/clf.pkl"
